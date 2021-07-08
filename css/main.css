@@ -103,5 +103,7 @@ footer {
   footer {
     background-color: #C0381B;
   }
+  .col-3 {
+    width: 33.3%;
 
 }
